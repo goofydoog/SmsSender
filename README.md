@@ -28,19 +28,21 @@ Under the hood, SMS Sender uses WorkManager to reliably dispatch both single- an
 
 ## Technologies & Libraries Used
 
-- Kotlin
-- Jetpack Compose
-- Material 3
-- Dark & Light Theme Support
-- Dagger Hilt
-- Android Architecture Components
-  - ViewModel
-  - DataStore
-  - Room
-- WorkManager
-- Coroutines
-- SmsManager
-- DatePicker & TimePicker
+<!-- Technology Badges -->
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?logo=jetpack&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Material 3](https://img.shields.io/badge/Material%203-6200EE?logo=material-io&logoColor=white)](https://m3.material.io/)
+[![Dark/Light Theme](https://img.shields.io/badge/Theme-Dark%20%7C%20Light-00BCD4)](#)
+[![Dagger Hilt](https://img.shields.io/badge/Hilt-009688?logo=dagger&logoColor=white)](https://dagger.dev/hilt/)
+[![Android Arch Components](https://img.shields.io/badge/Arch%20Components-3DDC84?logo=android&logoColor=white)](https://developer.android.com/topic/libraries/architecture)
+[![ViewModel](https://img.shields.io/badge/ViewModel-FF6F00?logo=android&logoColor=white)](#)
+[![DataStore](https://img.shields.io/badge/DataStore-03A9F4?logo=android&logoColor=white)](#)
+[![Room](https://img.shields.io/badge/Room-795548?logo=sqlite&logoColor=white)](https://developer.android.com/training/data-storage/room)
+[![WorkManager](https://img.shields.io/badge/WorkManager-2196F3?logo=android&logoColor=white)](https://developer.android.com/topic/libraries/architecture/workmanager)
+[![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/coroutines-overview.html)
+[![SmsManager](https://img.shields.io/badge/SmsManager-607D8B?logo=android&logoColor=white)](#)
+[![Date%20%26%20Time%20Picker](https://img.shields.io/badge/Picker-Date%20%26%20Time-FF9800?logo=android&logoColor=white)](#)
+
 
 
 
