@@ -23,6 +23,22 @@ SMS Sender is a native Android app written in Kotlin with Jetpack Compose that a
 Under the hood, SMS Sender uses WorkManager to reliably dispatch both single- and multi-part SMS messages (including Unicode), Room for persistent storage of contacts and schedules, and DataStore for modern key-value persistence. All together, it delivers a robust, efficient, and user-friendly reminder system on modern Android devices.  
 
 
+## Technologies & Libraries Used
+
+- Kotlin
+- Jetpack Compose
+- Material 3
+- Dark & Light Theme Support
+- Dagger Hilt
+- Android Architecture Components
+  - ViewModel
+  - DataStore
+  - Room
+- WorkManager
+- Coroutines
+- SmsManager
+- DatePicker & TimePicker
+
 
 
 <p align="center">
