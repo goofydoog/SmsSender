@@ -20,7 +20,7 @@ SMS Sender is a native Android app written in Kotlin with Jetpack Compose that a
 - Use placeholders `[name]` and `[date]` anywhere in your text—at send time these will be automatically replaced with the client’s actual name and appointment date/time  
 - Toggle between **Edit** and **Save** modes; the keyboard automatically appears when you start typing
 
-Under the hood, SMS Sender uses WorkManager to reliably dispatch both single- and multi-part SMS messages (including Unicode), Room for persistent storage of contacts and schedules, and DataStore for modern key-value persistence. All together, it delivers a robust, efficient, and user-friendly reminder system on modern Android devices. (Yes, AI generated this description)
+Under the hood, SMS Sender uses WorkManager to reliably dispatch both single- and multi-part SMS messages (including Unicode), Room for persistent storage of contacts and schedules, and DataStore for modern key-value persistence. All together, it delivers a robust, efficient, and user-friendly reminder system on modern Android devices. (Yes, you are right, AI generated this description)
 
 
 ## Technologies & Libraries Used
