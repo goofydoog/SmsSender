@@ -1,3 +1,6 @@
+[![Work in Progress](https://img.shields.io/badge/status-WIP-orange.svg)](#)
+
+
 # SMS Sender
 
 SMS Sender is a native Android app written in Kotlin with Jetpack Compose that automates sending reminder text messages to your clients. It’s ideal for anyone who manages a high volume of appointments—barbers, hairstylists, consultants, therapists, you name it—so you can stop worrying about manually firing off SMS reminders. The UI fully adapts to both **light** and **dark** system themes for a seamless user experience at any time of day.
